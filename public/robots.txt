@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stroymaster11.ru/sitemap.xml
